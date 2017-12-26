@@ -1,5 +1,5 @@
 {
-  "playlist":[
+  "playlist" : [
       {
         "id" : "PLnG4P8mEMi0HMfnV3knx1UPrjcsk5_bqO",
         "name" : "Songs",
@@ -46,7 +46,7 @@
             "length" : 56
           },{
             "id" : "l4WNrvVjiTw",
-            "name" : "If You're Happy",
+            "name" : "If You are Happy",
             "thumb" : "https://i.ytimg.com/vi/l4WNrvVjiTw/mqdefault.jpg",
             "length" : 123
           },{
@@ -677,7 +677,7 @@
           },
           {
               "id" : "7AsmU2pr7Hw",
-            "name" : "Forest Adventure Kids' Course",
+            "name" : "Forest Adventures",
             "thumb" : "https://i.ytimg.com/vi/7AsmU2pr7Hw/mqdefault.jpg",
             "length" : 100
           },
@@ -750,7 +750,7 @@
           },
           {
               "id" : "SXarF-Qh4Uc",
-            "name" : "Sweet Baby Girl Christmas Fun 2 – Santa's Village & Winter Crafts",
+            "name" : "Sweet Baby Girl Christmas Fun 2 – Village & Winter Crafts of Santa",
             "thumb" : "https://i.ytimg.com/vi/SXarF-Qh4Uc/mqdefault.jpg",
             "length" : 438
           },
@@ -775,13 +775,13 @@
         "videos" : [
           {
               "id" : "aVPmaB41w3g",
-            "name" : "Tom And Jerry English Episodes - The Cat’s Me Ouch",
+            "name" : "Tom And Jerry English Episodes - The Cat\'s Me Ouch",
             "thumb" : "https://i.ytimg.com/vi/aVPmaB41w3g/mqdefault.jpg",
             "length" : 188
           },
           {
               "id" : "wQb-rQMk-Hc",
-            "name" : "Tom and Jerry | Episode 57 | Jerry's Cousin (1951)",
+            "name" : "Tom and Jerry | Episode 57 | Jerry\'s Cousin (1951)",
             "thumb" : "https://i.ytimg.com/vi/wQb-rQMk-Hc/mqdefault.jpg",
             "length" : 255
           },
@@ -805,19 +805,19 @@
           },
           {
               "id" : "BiZdo7-5oW0",
-            "name" : "Baby Hector - Tom the Tow Truck's Car Wash",
+            "name" : "Baby Hector - Tom the Tow Truck\'s Car Wash",
             "thumb" : "https://i.ytimg.com/vi/BiZdo7-5oW0/mqdefault.jpg",
             "length" : 1382
           },
           {
               "id" : "OZ6CyS2fe_U",
-            "name" : "Baby Panda's Trapped on a Big Tree | Mushroom Fairies, Angry Bull",
+            "name" : "Baby Panda\'s Trapped on a Big Tree | Mushroom Fairies, Angry Bull",
             "thumb" : "https://i.ytimg.com/vi/OZ6CyS2fe_U/mqdefault.jpg",
             "length" : 560
           },
           {
               "id" : "hmm_ANty9TQ",
-            "name" : "What's in Vending Machine? | Baby Panda's Cool Car",
+            "name" : "What's in Vending Machine? | Baby Panda\'s Cool Car",
             "thumb" : "https://i.ytimg.com/vi/hmm_ANty9TQ/mqdefault.jpg",
             "length" : 1474
           },
@@ -835,7 +835,7 @@
           },
           {
               "id" : "eKdffw2oFps",
-            "name" : "Funny Animated cartoon for Kids | Cartoon Caillou | Caillou's grounded",
+            "name" : "Funny Animated cartoon for Kids | Cartoon Caillou | Caillou\'s grounded",
             "thumb" : "https://i.ytimg.com/vi/eKdffw2oFps/mqdefault.jpg",
             "length" : 4253
           },
@@ -847,7 +847,7 @@
           },
           {
               "id" : "vC6txeeWjXA",
-            "name" : "Nature Cat's Adventure - Cat makes baby animals",
+            "name" : "Nature Cat\'s Adventure - Cat makes baby animals",
             "thumb" : "https://i.ytimg.com/vi/vC6txeeWjXA/mqdefault.jpg",
             "length" : 623
           },
